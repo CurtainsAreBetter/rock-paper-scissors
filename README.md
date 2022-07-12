@@ -2,7 +2,12 @@
 
 
 ## File structure
-
+repo
+ - [index.html](./index.html)
+ - [assets](./assets)
+    - [stylesheets](./assets/stylesheets)
+        - [style.css](./assets/stylesheets/style.css)
+        
 repo
 |
 |--index.html
