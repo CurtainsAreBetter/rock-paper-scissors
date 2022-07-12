@@ -36,7 +36,7 @@ This should allow me to improve my organization and decrease the time it takes t
         - Play again button
 
 ### CSS
- - Create 'hidden' class 
+ - ~~Create 'hidden' class~~
 
 
 ### JS
