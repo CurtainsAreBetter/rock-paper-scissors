@@ -29,7 +29,7 @@ This should allow me to improve my organization and decrease the time it takes t
     - Game Screen
         - ~~Scoreboard~~
         - Game buttons (i.e user moves)
-        - Computer moves display
+        - Movement display
     - End Game Screen
         - Final results text
         - Final scores
@@ -37,6 +37,11 @@ This should allow me to improve my organization and decrease the time it takes t
 
 ### CSS
  - ~~Create 'hidden' class~~
+ - Welcome screen styling
+ - Game screen styling
+    - Scoreboard
+    - Game buttons
+    - Movement display
 
 
 ### JS
