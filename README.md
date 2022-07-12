@@ -41,4 +41,5 @@ This should allow me to improve my organization and decrease the time it takes t
 
 ### JS
   - rps game logic
-    - one round function
+    - ~~one round function~~
+  - ~~Computer move generator~~
