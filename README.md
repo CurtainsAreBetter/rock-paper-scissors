@@ -27,7 +27,7 @@ This should allow me to improve my organization and decrease the time it takes t
         - ~~Welcome text~~
         - ~~Start game button~~
     - Game Screen
-        - Scoreboard
+        - ~~Scoreboard~~
         - Game buttons (i.e user moves)
         - Computer moves display
     - End Game Screen

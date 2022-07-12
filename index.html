@@ -9,17 +9,62 @@
     <script src="./scripts/main.js" defer></script>
 </head>
 <body>
-    <!-- Header -->
+    <!--------------------------------
+                Header 
+    ----------------------------------->
     <div class="main-header">
         Rock! Paper! Scissors!
     </div>
 
-    <!-- Welcome Screen -->
-    <div class="welcome screen">
+    <!---------------------------------
+            Welcome Screen 
+    ----------------------------------->
+    <div class="welcome screen hidden">
         <div class="welcome-text">
             Click the button to play 5 rounds of <em>rock, paper, scissors</em> against a computer!
         </div>
         <button id="welcome-btn">Click Me!</button>
+    </div>
+
+    <!---------------------------------
+               Game Screen 
+    ----------------------------------->
+    <div class="game screen">
+        <div class="scoreboard">
+            <div class="scoreboard-header">
+                Scoreboard
+            </div>
+            <div class="scores">
+                <div class="scorecard">
+                    <div class="scorecard-header">User</div>
+                    <div class="scorecard-score" id="sc-user">0</div>
+                    <div class="scorecard-round-trackers">
+                        <!-- 
+                             x: lose
+                             o: win
+                             ~: tie
+                        -->
+                        <span class="srt-symbol" id="srtu5"></span>
+                        <span class="srt-symbol" id="srtu4"></span>
+                        <span class="srt-symbol" id="srtu3"></span>
+                        <span class="srt-symbol" id="srtu2"></span>
+                        <span class="srt-symbol" id="srtu1"></span>
+                    </div>
+                </div>
+
+                <div class="scorecard">
+                    <div class="scorecard-header">Computer</div>
+                    <div class="scorecard-score" id="sc-comp">0</div>
+                    <div class="scorecard-round-trackers">
+                        <span class="srt-symbol" id="srtc5"></span>
+                        <span class="srt-symbol" id="srtc4"></span>
+                        <span class="srt-symbol" id="srtc3"></span>
+                        <span class="srt-symbol" id="srtc2"></span>
+                        <span class="srt-symbol" id="srtc1"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     
