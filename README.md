@@ -21,11 +21,11 @@ This should allow me to improve my organization and decrease the time it takes t
 ## Tasks
 
 ### HTML
- - Create header
+ - ~~Create header~~
  - Create Screens
-    - Welcome Screen
-        - Welcome text
-        - Start game button
+    - ~~Welcome Screen~~
+        - ~~Welcome text~~
+        - ~~Start game button~~
     - Game Screen
         - Scoreboard
         - Game buttons (i.e user moves)
