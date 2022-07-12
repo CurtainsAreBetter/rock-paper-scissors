@@ -10,7 +10,7 @@ repo
     - [images](./assets/stylesheets/images)
         - [rock.jpg](./assets/stylesheets/images/rock.jpg)
         - [paper.jpg](./assets/stylesheets/images/paper.jpg)
-        -[scissors.jpg](./assets/stylesheets/images/scissors.jpg)
+        - [scissors.jpg](./assets/stylesheets/images/scissors.jpg)
  - [scripts](./scripts)
     - [main.js](./scripts/main.js)
 
